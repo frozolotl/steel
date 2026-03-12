@@ -1,6 +1,6 @@
 [package]
 name = "cargo-steel-lib"
-version.workspace = true
+version = "0.8.2"
 edition = "2021"
 repository = "https://github.com/mattwparas/steel"
 license = "MIT OR Apache-2.0"
